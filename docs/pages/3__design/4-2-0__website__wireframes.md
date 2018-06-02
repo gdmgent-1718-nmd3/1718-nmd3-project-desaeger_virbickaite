@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
+![Wireframes website](../../img/wireframes.jpg){: .img}

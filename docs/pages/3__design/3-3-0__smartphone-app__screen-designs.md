@@ -6,3 +6,10 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+## Leerkracht
+
+![Visual Design leerkracht](../../img/vslk.jpg){: .img}
+
+## Leerling
+
+![Visual Design leerling](../../img/vsll.jpg){: .img}

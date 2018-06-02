@@ -61,3 +61,4 @@ title: Analyse
 4. Zijn mama heeft het opzoekingswerk gedaan, hijzelf niet.
 5. Hij denkt niet dat hij nog zal terugkomen op hetgeen hij heeft gezien.
 6. /
+

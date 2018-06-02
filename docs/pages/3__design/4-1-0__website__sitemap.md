@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
+![Sitemap website](../../img/sitemap.jpg){: .img}
