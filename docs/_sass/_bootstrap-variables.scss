@@ -9,14 +9,17 @@
 //
 // Color system
 //
-
-$cyan:    #17a2b8 !default;
-$primary: $cyan;
+$primary: #39B4E8;
+$secondary: #B727D4;
 
 // Fonts
 //
+
+$font: 'helvetica neue';
 // Font, line-height, and color for body text, headings, and more.
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
-$font-family-base: Merriweather, serif;
+$font-family-base: 'montserrat';
+
+
