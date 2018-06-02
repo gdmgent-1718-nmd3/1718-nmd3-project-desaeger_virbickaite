@@ -6,5 +6,10 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
+## Leerkracht
 
+![Wireflow leerkracht](../../img/wwlk.jpg){: .img}
 
+## Leerling
+
+![Wireflow leerling](../../img/wwll.jpg){: .img}
