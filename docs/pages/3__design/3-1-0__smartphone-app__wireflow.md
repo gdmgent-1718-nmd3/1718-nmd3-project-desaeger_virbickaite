@@ -8,8 +8,8 @@ title: Wireflow
 ---
 ## Leerkracht
 
-![Wireflow leerkracht](../../img/wslk.jpg){: .img}
+![Wireflow leerkracht](https://i.imgur.com/ORfCjjF.jpg){: .img}
 
 ## Leerling
 
-![Wireflow leerling](../../img/wsll.jpg){: .img}
+![Wireflow leerling](https://i.imgur.com/NY5SwYr.jpg){: .img}

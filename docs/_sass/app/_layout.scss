@@ -50,3 +50,316 @@ p{
   font-family: $font-family-base;
   line-height: 1,0;
 }
+
+
+
+
+
+.fontsize{
+  font-size: 14px;
+  font-family: $font-family-base;
+  display: inline;
+}
+
+/*---------------TYPOGRAFIE-----------------*/ 
+/*------------------------------------------*/ 
+/*------------------------------------------*/ 
+/*------------------------------------------*/ 
+
+
+
+
+
+/*----------smartwatch-----------*/ 
+
+.sw_titel_1{
+  font-size: 30px;
+  font-family: bebas;
+  display: inline;
+}
+
+.sw_titel_2{
+  font-size: 25px;
+  font-family: bebas;
+  display: inline;
+}
+
+.sw_tekst{
+  font-size: 20px;
+  font-family: $font;
+  display: inline;
+}
+
+/*---------smartphone----------*/ 
+
+.sp_titel_1{
+  font-size: 50px;
+  font-family: bebas;
+  display: inline;
+}
+
+.sp_titel_2{
+  font-size: 25px;
+  font-family: bebas;
+  display: inline;
+}
+
+.sp_tekst{
+  font-size: 13px;
+  font-family: $font;
+  display: inline;
+}
+
+
+/*---------website----------*/
+
+.w_titel_1{
+  font-size: 70px;
+  font-family: bebas;
+  display: inline;
+}
+
+.w_titel_2{
+  font-size: 40px;
+  font-family: $font;
+  display: inline;
+}
+
+.w_tekst_groot{
+  font-size: 35px;
+  font-family: bebas;
+  display: inline;
+}
+
+.w_tekst{
+  font-size: 27px;
+  font-family: $font;
+  display: inline;
+}
+
+.w_header{
+  font-size: 30px;
+  font-family: bebas;
+  display: inline;
+}
+
+.w_footer{
+  font-size: 27px;
+  font-family: bebas;
+  display: inline;
+}
+
+
+
+/*----------------KLEUREN-------------------*/ 
+/*------------------------------------------*/ 
+/*------------------------------------------*/ 
+/*------------------------------------------*/ 
+
+.kleur {
+  padding: 30px;
+  color: white;
+  text-align: center;
+  text-shadow: 0px 2px 15px #000;
+  
+}
+
+.kleur_1 {
+  background-color: #B727D4;
+}
+.kleur_2 {
+  background-color: #5BC5F2;
+}
+.kleur_3 {
+  background-color: #93BF87;
+}
+.kleur_4 {
+  background-color: #C8614D;
+}
+.kleur_5 {
+  background-color: #186F94;
+}
+.kleur_6 {
+  background-color: #44CC1F;
+}
+
+
+.gradient_1 {
+ 
+  background: -webkit-linear-gradient(top left, #5BC5F2, #B727D4);
+  background: -o-linear-gradient(top left, #5BC5F2, #B727D4);
+  background: linear-gradient(to bottom right, #5BC5F2, #B727D4);
+}
+.gradient_2 {
+ 
+  background: -webkit-linear-gradient(top left, #1FD18A, #E2DB1C);
+  background: -o-linear-gradient(top left, #1FD18A, #E2DB1C);
+  background: linear-gradient(to bottom right, #1FD18A, #E2DB1C);
+}
+.gradient_3 {
+ 
+  background: -webkit-linear-gradient(top left, #FFF388, #F1D900);
+  background: -o-linear-gradient(top left, #FFF388, #F1D900);
+  background: linear-gradient(to bottom right, #FFF388, #F1D900);
+}
+.gradient_4 {
+ 
+  background: -webkit-linear-gradient(top left, #6396DB, #4F87D2);
+  background: -o-linear-gradient(top left, #6396DB, #4F87D2);
+  background: linear-gradient(to bottom right, #6396DB, #4F87D2);
+}
+.gradient_5 {
+ 
+  background: -webkit-linear-gradient(top left, #E714AF, #CC0096);
+  background: -o-linear-gradient(top left, #E714AF, #CC0096);
+  background: linear-gradient(to bottom right, #E714AF, #CC0096);
+}
+.gradient_6 {
+ 
+  background: -webkit-linear-gradient(top left, #46DC1E, #29C400);
+  background: -o-linear-gradient(top left, #46DC1E, #29C400);
+  background: linear-gradient(to bottom right, #46DC1E, #29C400);
+}
+
+
+
+
+
+/*----------------KNOPPEN-------------------*/ 
+/*------------------------------------------*/ 
+/*------------------------------------------*/ 
+/*------------------------------------------*/ 
+
+.button_1 {
+  font-family: bebas;
+  font-size: 25px;
+  font-weight: 600;
+  color: white; 
+  background-color: #B727D4;
+
+  border-radius: 100px;
+  margin-right: 15px;
+  float: left;
+  margin-top: 60px; 
+  margin-bottom: 30px; 
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.button_1:hover{
+  background-color:#5BC5F2;
+}
+
+.button_2 {
+  font-family: bebas;
+  font-size: 25px;
+  font-weight: 600;
+  color: white; 
+  background-color: #93BF87;
+  border-radius: 100px;
+  margin-right: 15px;
+  float: left;
+  margin-top: 60px; 
+  margin-bottom: 30px; 
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+.button_2:hover{
+  background-color:#6EA55F;
+}
+
+
+
+.button_2 {
+  font-family: bebas;
+  font-size: 25px;
+  font-weight: 600;
+  color: white; 
+  background-color: #93BF87;
+  border-radius: 100px;
+  margin-right: 15px;
+  float: left;
+  margin-top: 60px; 
+  margin-bottom: 30px; 
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+.button_2:hover{
+  background-color:#6EA55F;
+}
+
+.button_3 {
+  font-family: bebas;
+  font-size: 25px;
+  font-weight: 600;
+  color: white; 
+  background-color: #E714AF; background-image: -webkit-gradient(linear, left top, left bottom, from(#E714AF), to(#CC0096));
+ background-image: -webkit-linear-gradient(top, #E714AF, #CC0096);
+ background-image: -moz-linear-gradient(top, #E714AF, #CC0096);
+ background-image: -ms-linear-gradient(top, #E714AF, #CC0096);
+ background-image: -o-linear-gradient(top, #E714AF, #CC0096);
+ background-image: linear-gradient(to bottom, #E714AF, #CC0096);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#E714AF, endColorstr=#CC0096);
+  border-radius: 100px;
+  margin-right: 15px;
+  float: left;
+  margin-top: 60px; 
+  margin-bottom: 30px; 
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+
+.button_4 {
+  font-family: $font;
+  font-size: 15px;
+  font-weight: 400;
+  color: #9E9E9E; 
+  background-color: #EAEAEA;
+  border-radius: 100px;
+  margin-right: 15px;
+  float: left;
+  margin-top: 60px; 
+  margin-bottom: 30px; 
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+.button_4:hover{
+  background-color:#D9D0D0;
+}
+
+
+
+/*---------------FORMULIER------------------*/ 
+/*------------------------------------------*/ 
+/*------------------------------------------*/ 
+/*------------------------------------------*/ 
+
+.formulier {
+  font-family: $font;
+  color: #B2B2B2;
+  padding: 10px;
+  width: 316px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: solid #707070;
+}
+
+.zoek {
+  font-family: $font;
+  color: #9E9E9E;
+  padding: 10px 10px 10px 40px;
+  border: 2px;
+  border-radius: 100px;
+  background-color: #EAEAEA;
+  width: 296px;
+  height: 45;
+}

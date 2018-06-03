@@ -10,7 +10,6 @@
 // Color system
 //
 $primary: #39B4E8;
-$secondary: #B727D4;
 
 // Fonts
 //
@@ -22,4 +21,7 @@ $font: 'helvetica neue';
 
 $font-family-base: 'montserrat';
 
-
+@font-face {
+    font-family: "bebas";
+    src: url("BebasNeue-Regular.otf");
+    }

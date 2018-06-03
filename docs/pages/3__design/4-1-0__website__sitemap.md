@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
-![Sitemap website](../../img/sitemap.jpg){: .img}
+![Sitemap website](https://i.imgur.com/T4X3jG3.jpg){: .img}

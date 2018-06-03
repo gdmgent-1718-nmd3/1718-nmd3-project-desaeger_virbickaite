@@ -8,8 +8,8 @@ title: Screen Designs
 ---
 ## Leerkracht
 
-![Visual Design leerkracht](../../img/vslk.jpg){: .img}
+![Visual Design leerkracht](https://i.imgur.com/VsECvvS.jpg){: .img}
 
 ## Leerling
 
-![Visual Design leerling](../../img/vsll.jpg){: .img}
+![Visual Design leerling](https://i.imgur.com/w6v413w.jpg){: .img}
